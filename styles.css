@@ -5,7 +5,7 @@ html, body {
     /* Remove os preenchimentos internos padrão */
     height: 100%;
     /* Faz com que o HTML e o corpo da página ocupem toda a altura da tela */
-    color: #ffffff;
+    color: #000000;
     /* Define a cor do texto como branco, garantindo boa visibilidade sobre fundos
     escuros */
     font-family: Arial, sans-serif;
